@@ -28,4 +28,8 @@ A decentralized application for education management using blockchain technology
 
 1. Connect your MetaMask wallet
 2. Navigate to the appropriate section based on your role (Teacher or Student)
-3. Interact with the smart contracts through the user interface 
+3. Interact with the smart contracts through the user interface
+4. Home page  ![Screenshot (48)](https://github.com/user-attachments/assets/89ccdf57-42ed-458a-aeff-532f96653715)
+5. Student portal view  ![Screenshot (50)](https://github.com/user-attachments/assets/db2f1fb1-3980-4b14-902f-e0e45a54c727)
+
+
